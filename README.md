@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://sayeedahmed08.netlify.app/](https://sayeedahmed08.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sayeedahmed08.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, react-router-dom, Chakara Ui and Figma**
 
