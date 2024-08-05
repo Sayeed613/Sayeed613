@@ -7,7 +7,7 @@
 
 - I’m currently learning: **Backend development**
 
-- 🌱 I’m currently exploring **Node.js**
+- 🌱 I’m currently exploring **Node.js, MongoDB, and other backend languages**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sayeedahmed08.netlify.app/)
 
