@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sayeedahmed08.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, react-router-dom, Chakara Ui and Figma**
+- 💬 Ask me about ** HTML5, CSS3, JavaScript, React, react-router-dom, Axios, Chakara Ui and Figma **
 
 - 📫 How to reach me **sayeedahmed90082@gmail.com**
 
