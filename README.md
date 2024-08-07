@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sayeedahmed90082@gmail.com**
 
-- 📄 Know about my experiences [My Resume](http://127.0.0.1:5500/assets/Resume/SayeedAhmed-Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66b262d1d5cd577eb808a129)
 
 - ⚡ Fun fact **I can solve a Rubik's cube in under two minutes!**
 
